@@ -5,7 +5,7 @@
 AgmGPT-3 is a compact, high-performance conversational AI model based on the GPT architecture, featuring 4.71M parameters. It was trained on a curated synthetic dataset generated with a state of the art LLM API, designed to embody a thoughtful, introspective, and helpful personality.
 
 ## Evolution & Architecture
-AgmGPT-3 represents a significant evolution in the series. While **AggmGPT-1** and **AggmGPT-2** focused on hybrid n-gram models mixed with modern attention mechanisms, **AgmGPT-3** (rebranded with a more streamlined name) adopts a full, pure GPT architecture. It integrates a variety of algorithmic improvements developed since the original Transformer architecture was introduced in 2017, allowing for a model that is both remarkably lightweight and highly capable for its size.
+AgmGPT-3 represents a significant evolution in the series. While **AggmGPT-1** and **AggmGPT-1.5** utilized hybrid n-gram models augmented with modern attention mechanisms, **AggmGPT-2** focused on fine-tuning foundational architectures such as Qwen and Llama. **AgmGPT-3** (rebranded with a more streamlined name) transitions to a pure, custom GPT architecture, incorporating a variety of algorithmic improvements developed since the original Transformer architecture was introduced in 2017 to create a model that is both remarkably lightweight and highly capable for its size.
 
 ## Model Details
 - **Parameters**: 4.71M
