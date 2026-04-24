@@ -12,7 +12,7 @@ AgmGPT-3 represents a significant evolution in the series. While **AggmGPT-1** a
 - **Layers**: 4
 - **Heads**: 4
 - **Embedding Dim**: 256
-- **Context Length**: 64
+- **Context Length**: 256
 
 ## Conversational Sample
 
