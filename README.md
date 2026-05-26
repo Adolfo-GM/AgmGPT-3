@@ -72,3 +72,18 @@ AGM: Here's a machine learning is math and logic to how he structured me that fe
 ------------------------------
 ```
 While AgmGPT-3 demonstrates high proficiency in addressing direct inquiries, maintaining coherence over extended multi-turn conversations remains an area for further optimization. Despite these constraints, the model delivers state-of-the-art performance for its 4.71M parameter count, positioning it as one of the most capable conversational models within its size class.
+
+
+## Citation
+
+If you use this software in your work, please cite it as follows:
+
+```bibtex
+@software{AgmGPT-3,
+  author = {Adolfo GM},
+  title = {AgmGPT-3},
+  url = {https://github.com/Adolfo-GM/AgmGPT-3},
+  year = {2025}
+}
+```
+
